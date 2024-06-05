@@ -1,6 +1,6 @@
 👋 Hi, I’m @Tanuprashar
 
-👀 I’m interested in algorithms, math, logical building , Gaining new knowledge.
+👀 I’m interested in algorithms, maths, logical building , Gaining new knowledge.
 
 🌱 I’m currently learning python, SQL.
 
